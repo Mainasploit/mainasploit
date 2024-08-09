@@ -19,7 +19,7 @@
 
 <!-- GitHub Stats Section -->
 <div style="background-color: #1e1e1e; padding: 30px; border-radius: 15px; margin-top: 20px; text-align: center;">
-  <h2 style="color: #00ffcc; font-size: 2.2rem; text-shadow: 0 0 10px #00ffcc;">📊 GitHub Stats</h2>
+  <h2 style="color: #00ffcc; font-size: 2.2rem; text-shadow: 0 0 10px #00ffcc;"> My GitHub Stats</h2>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=mainasploit&theme=omni&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="border-radius: 10px;">
     <br/>
