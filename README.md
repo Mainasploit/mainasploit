@@ -16,11 +16,16 @@
   </h2>
   <p style="font-size: 1.2rem;">I am a passionate cybersecurity engineer specializing in online safety, ethical hacking, and Linux systems. I thrive in environments where security is critical and love tackling complex security challenges.</p>
 </div>
+
 <!-- GitHub Stats Section -->
 <div style="background-color: #1e1e1e; padding: 30px; border-radius: 15px; margin-top: 20px; text-align: center;">
   <h2 style="color: #00ffcc; font-size: 2.2rem; text-shadow: 0 0 10px #00ffcc;">📊 GitHub Stats</h2>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Mainasploit&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px; animation: slideIn 2s;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mainasploit&theme=omni&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="border-radius: 10px;">
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mainasploit&theme=omni&hide_border=true" alt="GitHub Streak" style="border-radius: 10px;">
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainasploit&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="border-radius: 10px;">
   </div>
 </div>
 
@@ -31,3 +36,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="transition: transform 0.3s; box-shadow: 0 0 10px #00ffcc;">
   </a>
 </div>
+
+<!-- Footer -->
+<p style="text-align: center; color: #ffffff; font-size: 0.9rem; margin-top: 20px;">
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</p>
