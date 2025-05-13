@@ -3,7 +3,7 @@
   <img src="https://github.com/Mainasploit/mainasploit/blob/main/my%20gitub%20banner.gif" alt="Goku Anime Banner" style="width: 100%; max-width: 1725px; height: auto; border-radius: 10px; box-shadow: 0 0 15px #00ffcc;">
   <div style="text-align: center; margin-top: 20px;">
     <h1 style="font-size: 3.5rem; font-weight: 900; background: linear-gradient(135deg, #00ffcc, #00bfff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      Hi there 👋, I'm Mainasploit
+      Hi there 👋, I'm Maina
     </h1>
     <p style="font-size: 1.5rem;">Your Trusted <span style="color: #00ffcc; font-weight: bold;">Cybersecurity Engineer</span></p>
   </div>
