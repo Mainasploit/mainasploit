@@ -5,7 +5,7 @@
     <h1 style="font-size: 3.5rem; font-weight: 900; background: linear-gradient(135deg, #00ffcc, #00bfff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
       Hi there 👋, I'm Maina
     </h1>
-    <p style="font-size: 1.5rem;">Your Trusted <span style="color: #00ffcc; font-weight: bold;">Cybersecurity Engineer</span></p>
+    <p style="font-size: 1.5rem;">Your Trusted <span style="color: #00ffcc; font-weight: bold;">Enterprise Solutions Architect</span></p>
   </div>
 </div>
 
@@ -14,7 +14,7 @@
   <h2 style="color: #00ffcc; font-size: 2.2rem; text-shadow: 0 0 10px #00ffcc;">
     About Me
   </h2>
-  <p style="font-size: 1.2rem;">I am a passionate cybersecurity engineer specializing in online safety, ethical hacking, and Linux systems. I thrive in environments where security is critical and love tackling complex security challenges.</p>
+  <p style="font-size: 1.2rem;">I am a passionate solutions architect specializing in online safety, ethical hacking, and Linux systems. I thrive in environments where security is critical and love tackling complex security challenges.</p>
 </div>
 
 <!-- GitHub Stats Section -->
